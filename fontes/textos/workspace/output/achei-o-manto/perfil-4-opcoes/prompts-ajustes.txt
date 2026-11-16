@@ -1,0 +1,16 @@
+ACHEI O MANTO — Ajustes finais
+Ferramenta: geração integrada de imagens.
+Pedido: camisas em cores neutras, sem associação ao Palmeiras.
+Opção 4 já utiliza carvão e branco na forma da camisa/monograma.
+
+Ajuste de margem da opção 1:
+Use case: precise-object-edit. Edit the attached square brand avatar. Keep the existing logo drawing, exact typography, lettering, colors, background and all design features unchanged. ONLY reduce the entire combined logo group (jersey collar symbol and both lines of text) to 80 percent of its current size around the canvas center. Maintain the same square canvas size and fill the expanded outer margin with a uniform matching charcoal #151A17 background. Every part of the mark must fit comfortably inside a centered circle of diameter 76 percent of the image width. This is to prevent cutting off the bottom-left M when used as a circular Instagram profile picture. Center the entire logo optically. Exact text stays "ACHEI O" in warm white and "MANTO" in lime green. No other changes. Do not add a circle, mockup, labels, border or any other elements. Output one final square image.
+
+OPÇÃO 1
+Use case: precise-object-edit. Edit this final square ACHEI O MANTO profile logo. Change ONLY the jersey collar/shoulders icon above the lettering to neutral colors: shirt body warm white #F4F1E8, V-neck charcoal #151A17, the two shoulder accents medium neutral gray. NO GREEN OR LIME on the jersey icon, collar, trim, cuffs or shoulder accents. The football shirt must be visually neutral, not associated with a specific team. Preserve the existing logo layout and generous margins EXACTLY, preserve all letterforms and the exact text "ACHEI O" in warm white and "MANTO" in lime #C5F246, keep the charcoal full square background. No resizing, no added symbols, no additional words, no redesign. One final square avatar.
+
+OPÇÃO 2
+Use case: precise-object-edit. Edit the attached square ACHEI O MANTO shield profile logo. Change ONLY the small football jersey pictogram inside the bottom of the shield: replace its entire lime green shirt body with warm white #F4F1E8, keeping its V-neck charcoal #151A17. Every part of this jersey icon must use neutral white/charcoal colors; NO GREEN OR LIME on the jersey itself. Preserve everything else exactly: full deep green background, charcoal crest, lime perimeter, original large warm-white words "ACHEI O" and "MANTO", all dimensions, placement and spacing. No new features, no text changes, no mockup. One finished square avatar.
+
+OPÇÃO 3
+Use case: precise-object-edit. Edit the attached square ACHEI O MANTO jersey profile logo. Recolor the football shirt to a fully NEUTRAL palette so it does not suggest any team: change the deep green jersey body to charcoal #151A17, change the lime V-neck and lime sleeve cuffs to warm white #F4F1E8, and change the lime word "MANTO" to warm white #F4F1E8. Keep "ACHEI O" in warm white. All parts of the shirt, including the chest lettering and trim, must be charcoal and warm white only, NO green or lime. Preserve the exact typefaces, word spelling, jersey silhouette, geometry, placement, dimensions and warm-white background. This is strictly a color correction, not a redesign. Do not add stripes, club emblems, new text, texture or any other elements. One finished square avatar.

@@ -1,0 +1,26 @@
+[
+  {
+    "opcao": 1,
+    "nome": "Tipografia de torcida",
+    "origem": "/Users/g.martins/.codex/generated_images/01a1ad80-6957-7ca3-9ce9-bfb084f7f781/exec-191e1a05-1d5e-4195-a4da-e2b31477b40a.png",
+    "arquivo": "01-tipografia-de-torcida-neutra.png"
+  },
+  {
+    "opcao": 2,
+    "nome": "Escudo do manto",
+    "origem": "/Users/g.martins/.codex/generated_images/01a1ad80-6957-7ca3-9ce9-bfb084f7f781/exec-ca7f4646-737c-4ea6-9d46-bc86022a2370.png",
+    "arquivo": "02-escudo-do-manto-neutra.png"
+  },
+  {
+    "opcao": 3,
+    "nome": "Camisa em foco",
+    "origem": "/Users/g.martins/.codex/generated_images/01a1ad80-6957-7ca3-9ce9-bfb084f7f781/exec-9f150125-77eb-429a-97d7-df4dfb77b8c6.png",
+    "arquivo": "03-camisa-em-foco-neutra.png"
+  },
+  {
+    "opcao": 4,
+    "nome": "Monograma AM",
+    "origem": "/Users/g.martins/.codex/generated_images/01a1ad80-6957-7ca3-9ce9-bfb084f7f781/exec-4ec0ecf2-3355-4a47-92f5-484759f967fa.png",
+    "arquivo": "04-monograma-am-neutra.png"
+  }
+]

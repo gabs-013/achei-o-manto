@@ -1,0 +1,61 @@
+ACHEI O MANTO — PREÇO, ANÚNCIO META E END CARD
+13/11/2026
+
+Direção: fotografia ultrarrealista do Santos em estúdio carvão, madeira, marfim e detalhes lima. Tipografia esportiva com hierarquia forte.
+Confirmação do usuário: “Usar Santos como exemplo, com preço a preencher”.
+Ferramenta: geração integrada de imagens (image_gen). Prompts completos preservados em prompts.json.
+
+01 — PREÇO EM DESTAQUE
+Arquivo: 01-preco-em-destaque.png
+Dimensões reais: 1122 × 1402 px; peça vertical, aproximadamente 4:5.
+Texto da arte:
+ACHEI O MANTO
+OLHA ESSE ACHADO.
+ESSE MANTO POR
+R$ XX,XX
+Preço a preencher
+@acheiomanto
+
+A faixa lima cria o principal ponto de atenção comercial sem encobrir gola ou escudo. R$ XX,XX é um marcador visual solicitado pelo usuário, não um preço real. Substituir pelo preço confirmado e retirar “Preço a preencher” na revisão para uma oferta real. Não foram criados desconto, preço anterior, frete, prazo ou urgência.
+
+02 — CONCEITO DE ANÚNCIO PARA META
+Arquivo: 02-anuncio-meta.png
+Dimensões reais: 1122 × 1402 px; peça vertical, aproximadamente 4:5.
+Uso pensado: anúncio estático em feed. Não é adaptação 9:16 para Stories/Reels.
+Texto da arte:
+ACHEI O MANTO
+TEU PRÓXIMO MANTO TÁ AQUI.
+CONFIRA OS DETALHES →
+@acheiomanto
+
+Execução: camisa inteira como foco, título curto, contraste da palavra MANTO e uma única chamada. O destino da chamada não foi informado. A peça foi criada como conceito, sem configurar campanha ou alegar disponibilidade do produto.
+
+Texto principal sugerido, para usar após confirmar o modelo e o destino:
+“Do escudo à gola, tem detalhe que merece atenção. Olha esse achado pra tua coleção e confira o modelo completo.”
+Título sugerido: “Conheça o manto”
+Ação pretendida: levar aos detalhes do modelo exato em um destino validado.
+Se houver link de afiliado, acrescentar identificação clara na legenda ou texto principal: “Link de afiliado: posso receber comissão pela compra.”
+
+O formato é uma escolha de composição desta entrega, não uma certificação de requisitos da plataforma. A consulta ao guia oficial da Meta foi redirecionada para login; especificações atuais por posicionamento não foram confirmadas. Nenhuma campanha, orçamento ou publicação foi criado.
+
+03 — CARROSSEL COM END CARD PARA SEGUIR
+Arquivo: 03-carrossel-com-end-card.png
+Dimensões reais: 1942 × 809 px; prévia panorâmica com três quadros verticais.
+Sequência: detalhe do escudo → camisa inteira → end card.
+Os três quadros estão juntos na mesma imagem; não são três arquivos individuais.
+
+Texto do end card:
+ACHEI O MANTO
+CURTIU O MANTO?
+Então cola na resenha.
+SEGUE
+@acheiomanto
+Eu garimpo.
+Você escolhe.
+
+O end card mantém o vocabulário de torcedor e deixa claro o motivo para seguir: acompanhar a curadoria. A chamada é para seguir, sem dividir atenção com compra.
+
+ESTADO E FIDELIDADE
+Três propostas produzidas e inspecionadas visualmente. São imagens geradas por IA para direção visual. Acabamento, modelo, disponibilidade e procedência comerciais não foram verificados; usar a imagem autorizada da peça exata na produção de anúncio real.
+Os arquivos originais e as versões anteriores foram preservados. Aprovação estética final e publicação não confirmadas.
+

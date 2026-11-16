@@ -1,0 +1,57 @@
+ACHEI O MANTO — 3 ESTILOS DE CARROSSEL
+13/11/2026 • Propostas visuais para escolha de direção
+
+Entrega: três prévias panorâmicas, cada uma reunindo três quadros verticais.
+Dimensões verificadas: 1942 × 809 px por prévia.
+Formato proposto para produção dos slides individuais: 1080 × 1350 px (4:5).
+As prévias entregues não são nove slides individuais exportados nesse tamanho.
+
+IDEIA COMUM
+Detalhe do escudo → gola, peito e tecido → camisa inteira.
+O “macro” do pedido foi interpretado como visão geral da peça. Na linguagem fotográfica, o primeiro quadro é a fotografia macro e o último é o plano aberto.
+O produto ocupa a imagem; assinatura @acheiomanto, numeração e pequeno traço lima fazem a conexão com a marca. Sem títulos grandes, preços ou molduras pesadas. O logo vigente não foi redesenhado.
+Fotos conceituais geradas com a ferramenta integrada de imagem, orientadas pelas referências do usuário. Não representam fotografias de peças em estoque nem comprovam acabamento, procedência ou caimento. O recorte de Palmeiras não mostrava o modelo completo: partes fora do recorte foram extrapoladas na proposta e precisam de referência integral antes de uma peça comercial.
+
+01 — COLEÇÃO EM ESTÚDIO
+Exemplo visual: Santos branco.
+Atmosfera: fundo carvão neutro, cadeira e cabide de madeira, luz lateral quente e sombra suave.
+Quadro 1: escudo e bordado em close; relevo, trama e pequenas dobras.
+Quadro 2: gola V azul clara, peito e marcas da camisa no cabide.
+Quadro 3: camisa inteira, incluindo mangas e barra, apoiada visualmente pela cadeira.
+Uso proposto: linha recorrente de curadoria, com atmosfera de coleção.
+Legenda sugerida: “Tem camisa que merece uma pausa no scroll. Do escudo à gola, eu separei os detalhes desse manto. Qual deles te ganhou?”
+Arquivo: 01-colecao-em-estudio.png
+
+02 — CLIMA DE ESTÁDIO
+Exemplo visual: Palmeiras creme.
+Atmosfera: rede branca, gramado e arquibancada desfocados; luz natural.
+Quadro 1: escudo verde e dourado, estrela vermelha e tecido junto à rede.
+Quadro 2: aproximação do peito e da gola no mesmo ambiente.
+Quadro 3: camisa inteira no cabide preso à rede, com o campo como contexto.
+Uso proposto: ligar a camisa ao universo do time, mantendo o produto em primeiro plano.
+Legenda sugerida: “O escudo puxa o olhar. O resto do manto segura. Arrasta até ver a camisa inteira e me conta: vai pra coleção?”
+O estádio é genérico; não foi atribuído a um local real. Uniforme completo e especificações comerciais não verificados.
+Arquivo: 02-clima-de-estadio.png
+
+03 — MANTO NA MÃO
+Exemplo visual: Holanda laranja.
+Atmosfera: fundo terracota ligado ao laranja da seleção, mãos e camiseta escura de uma pessoa sem rosto visível.
+Quadro 1: leão, letras e textura em close.
+Quadro 2: gola e peito, com mãos segurando a peça.
+Quadro 3: camisa inteira segura pelos ombros; dobras naturais e forma legível.
+Uso proposto: dar presença humana à curadoria e destacar recortes e cores fortes.
+Legenda sugerida: “Laranja que não passa despercebido. Primeiro o detalhe, depois o manto inteiro. Esse entraria no teu rodízio?”
+Arquivo: 03-manto-na-mao.png
+
+REPETIÇÃO DO SISTEMA
+Manter o mesmo modelo, cores e luz nos três quadros de cada carrossel.
+Mudar o time não obriga a mudar a assinatura da marca.
+Os fundos podem variar entre neutro, elementos do futebol ou cor ligada ao time.
+Para fidelidade comercial, usar fotos autorizadas da peça exata e conferir frente inteira, escudo, gola, mangas, marcas e acabamento.
+Legenda de venda, preço e chamada para link dependem de produto e destino confirmados. As legendas acima são propostas de apresentação, sem alegação de uso pessoal.
+
+ARQUIVOS
+Três PNGs de prévia; prompts.json com os prompts completos usados; origens-das-previas.json com a origem dos arquivos; este guia.
+As seis referências originais do usuário foram preservadas separadamente na pasta referencias.
+Status: produzido e inspecionado visualmente. Escolha final, aprovação e publicação não confirmadas.
+

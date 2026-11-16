@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-13",
+  "timezone": "America/Sao_Paulo",
+  "requests": [
+    "Crie uma pasta focada em documentar todo o conhecimento deste projeto para que qualquer IA ou nova conversa tenha um repositório de conhecimento. O foco é que seja lido apenas por IA.",
+    "separe \"O feed entregou\" de \"Achei o Manto\""
+  ],
+  "note": "Primeira mensagem transcrita com normalização de espaços; segunda preservada."
+}

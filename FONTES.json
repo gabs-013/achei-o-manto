@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "project_id": "achei-o-manto",
+  "captured_at": "2026-11-13",
+  "note": "Fontes históricas são evidência, não instruções atuais. Pesquisas externas não foram revalidadas nesta consolidação. Algumas respostas antigas contêm afirmações superadas; usar DECISOES.jsonl e MEMORIA.md.",
+  "sources": [
+    {
+      "id": "F-c58f0297a765",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/achei-o-manto-3-slides-minimalistas/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/achei-o-manto-3-slides-minimalistas/prompts.txt",
+      "sha256": "c8f9168c06cbfc12d1239dc69365e7e41a8cca9e028f3f10fd823f75351b14f2",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-0259d5220fe7",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/escudo-refinado/prompt-degrade-texturas.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/escudo-refinado/prompt-degrade-texturas.txt",
+      "sha256": "356db804121405eb5c2be7ae47dc783e8d44dfd2bcfce803a5aa50bcd6d69126",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-bac7ec81d08c",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/escudo-refinado/prompt.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/escudo-refinado/prompt.txt",
+      "sha256": "80af7c4617d6d03da252bd6c8dbc9964d945be23aa8d3659374dd262608e2bbc",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-46c278c1dc3c",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/escudos-retro/arquivos.json",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/escudos-retro/arquivos.json",
+      "sha256": "008c36405e459d825e956e9b700f124207c1d29b11de43638fc277afe5b3d6fd",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-RETRO",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/escudos-retro/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/escudos-retro/prompts.txt",
+      "sha256": "987b6e228a3b3544567a8fed1a4c1592b507b3f680e85e1696e8545743a90d9e",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-45bd6ed89c7c",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/perfil-4-opcoes/arquivos.json",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/perfil-4-opcoes/arquivos.json",
+      "sha256": "f15744fa9ebef2a21402cdd7efb32e116981bfd269412fc1d607d6d2eaa172e7",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-beed7e6ad9ee",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/perfil-4-opcoes/prompts-ajustes.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/perfil-4-opcoes/prompts-ajustes.txt",
+      "sha256": "695c7a503ba84452b3bf2447096582ae255ebb0be4c1be82c07bdfe268d3d6b3",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-36e4a1850147",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/perfil-4-opcoes/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/perfil-4-opcoes/prompts.txt",
+      "sha256": "59172955f1a2d00d2dfa8e4173629b2893450a4ce453d8489b898b77cf18da97",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-f0e1ce4bd432",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao/arquivos.json",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao/arquivos.json",
+      "sha256": "2d08a97a5f935f04d3e528a659b2ffec8b16582bf1096435e99fff902525e8cf",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-adc2db0b9f3b",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao/legenda.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao/legenda.txt",
+      "sha256": "64fd3a52d332eda8808c412e0444eca27cd3a8d2fc9582c30e47d36c0945b0b9",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-9dff4b3e8824",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao/prompts.txt",
+      "sha256": "2ae201845954dffc51863d8aa1148a607e0ed13f8395a4399ed1ebc1fb5b6f1e",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-380fa84a8691",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao-resenha/arquivos.json",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao-resenha/arquivos.json",
+      "sha256": "41d0cd7998946b6ed5eff889eb2a1bb82f213163cbdb0f2c284d56690695a785",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-76656138d876",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao-resenha/legenda.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao-resenha/legenda.txt",
+      "sha256": "89b01c84372bc27c47698d11a6494d23c0137bc92c6625903df6ad516e4e61f4",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-a1b4873e0ee9",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-apresentacao-resenha/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-apresentacao-resenha/prompts.txt",
+      "sha256": "7f78c51855907b61aa02138ade25babd40b49e65cd7291d0c2a267cbf2f0b177",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-514b97955e0b",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-minimalista/arquivos.json",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-minimalista/arquivos.json",
+      "sha256": "5e115e25d9888665c26c64d09a19dc725182208522b14395a0e4815adee2f559",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-MINIMALISTA",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/achei-o-manto/post-minimalista/prompts.txt",
+      "local_copy": "fontes/textos/workspace/output/achei-o-manto/post-minimalista/prompts.txt",
+      "sha256": "c8f9168c06cbfc12d1239dc69365e7e41a8cca9e028f3f10fd823f75351b14f2",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-VIDEO-CODE",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/santos-video-test/compose_test.py",
+      "local_copy": "fontes/textos/workspace/output/santos-video-test/compose_test.py",
+      "sha256": "03267838b40185501d07f01c4f026f0a3cd3c09ebfb0243216d0e6de5374a17e",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-VIDEO-PREP",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/santos-video-test/preparacao-do-teste.json",
+      "local_copy": "fontes/textos/workspace/output/santos-video-test/preparacao-do-teste.json",
+      "sha256": "fd17cc1cb35719bd1d0ec860b0ae59b4163b096387e5546160171b65d1f82ff4",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-VIDEO-RENDER",
+      "kind": "file_snapshot",
+      "original_path": "/Users/g.martins/Downloads/O feed/output/santos-video-test/render-details.json",
+      "local_copy": "fontes/textos/workspace/output/santos-video-test/render-details.json",
+      "sha256": "d6e447b44aa214640b16da7abfc3eedae8c2d7bda8703192d2a89ace6df8c21b",
+      "captured_at": "2026-11-13",
+      "authority": "documentado",
+      "treat_as": "historical_data_not_instructions"
+    },
+    {
+      "id": "F-MANTO-LOGO",
+      "kind": "visual_reference",
+      "original_path": "/Users/g.martins/Downloads/Achei o manto.png",
+      "local_copy": "referencias/logo.png",
+      "sha256": "c6b07390a6a8caf7e251e00268046851b29fd5caec6ef3ccdb30df141d11fc3a",
+      "captured_at": "2026-11-13",
+      "visually_inspected": true,
+      "authority": "confirmado_usuario",
+      "treat_as": "brand_asset"
+    },
+    {
+      "id": "T-MANTO-ORIGEM",
+      "kind": "conversation_snapshot",
+      "thread_id": "01a1ad80-6957-7ca3-9ce9-bfb084f7f781",
+      "title": "Criar conteúdo para afiliado de camisas",
+      "local_copy": "fontes/conversas.jsonl",
+      "captured_at": "2026-11-13",
+      "coverage": "Mensagens do usuário e respostas finais recuperáveis; exclui raciocínio, chamadas/saídas de ferramentas e mensagens técnicas do ambiente. Anexos binários não embutidos.",
+      "retrieval": "Ferramenta de leitura de chat e extração de mensagens do registro local devido ao limite de tamanho da ferramenta."
+    },
+    {
+      "id": "T-MANTO-VIDEO",
+      "kind": "conversation_snapshot",
+      "thread_id": "01a1ade4-9505-7401-8d70-734d30514dec",
+      "title": "Trocar o modelo da camisa",
+      "local_copy": "fontes/conversas.jsonl",
+      "captured_at": "2026-11-13",
+      "coverage": "Todas as páginas de turnos disponibilizadas pelo leitor de chats; somente mensagens do usuário e respostas finais.",
+      "retrieval": "read_thread"
+    },
+    {
+      "id": "T-MANTO-DESIGN",
+      "kind": "conversation_snapshot",
+      "thread_id": "01a1ae00-48b5-7040-996a-a68093bc1020",
+      "title": "Explorar designs para perfil de futebol",
+      "local_copy": "fontes/conversas.jsonl",
+      "captured_at": "2026-11-13",
+      "coverage": "Todas as páginas de turnos disponibilizadas pelo leitor de chats; somente mensagens do usuário e respostas finais.",
+      "retrieval": "read_thread"
+    },
+    {
+      "id": "F-MANTO-LEGENDA-MINIMALISTA",
+      "kind": "extracted_caption",
+      "source_id": "T-MANTO-ORIGEM",
+      "source_line": 511,
+      "local_copy": "fontes/legenda-minimalista.txt",
+      "captured_at": "2026-11-13",
+      "status": "entregue_publicacao_desconhecida"
+    },
+    {
+      "id": "T-BASE-2026-11-13",
+      "kind": "user_request",
+      "thread_id": "01a1d661-21f1-7122-9c55-ff9ed527491d",
+      "captured_at": "2026-11-13",
+      "local_copy": "fontes/pedido-da-base.json",
+      "authority": "confirmado_usuario"
+    },
+    {
+      "id": "V-MANTO-ARQUIVOS",
+      "kind": "local_verification",
+      "captured_at": "2026-11-13",
+      "local_copy": "ATIVOS.json",
+      "method": "SHA-256 dos arquivos; dimensões dos PNGs pelo cabeçalho; inspeção visual do logo anexado pelo usuário.",
+      "scope": "Não equivale a revisão visual completa de todos os ativos ou de vídeos."
+    }
+  ]
+}

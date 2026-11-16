@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-13",
+  "brand": "Achei o Manto",
+  "method": "built-in image_gen",
+  "user_confirmed": {
+    "shirt": "Santos como exemplo",
+    "price": "a preencher"
+  },
+  "outputs": [
+    {
+      "title": "Preço em destaque",
+      "path_project": "output/achei-o-manto/preco-ads-endcard-2026-11-13/01-preco-em-destaque.png",
+      "bytes": 2034569,
+      "sha256": "90b6278bd96b74b022b73a8be521e358c3de2e166245760b3185af44dcf5f1a0",
+      "dimensions_px": {
+        "width": 1122,
+        "height": 1402
+      },
+      "status": "proposto",
+      "visually_inspected": true
+    },
+    {
+      "title": "Anúncio para Meta",
+      "path_project": "output/achei-o-manto/preco-ads-endcard-2026-11-13/02-anuncio-meta.png",
+      "bytes": 1907856,
+      "sha256": "b8ecabf9b2fb599c478c4aa4f729411295eaf83a3f600a23c687f9e9d2f1cd27",
+      "dimensions_px": {
+        "width": 1122,
+        "height": 1402
+      },
+      "status": "proposto",
+      "visually_inspected": true
+    },
+    {
+      "title": "Carrossel com end card",
+      "path_project": "output/achei-o-manto/preco-ads-endcard-2026-11-13/03-carrossel-com-end-card.png",
+      "bytes": 2448729,
+      "sha256": "647ad922848078144c670f12faa59384c4874b4af0f542dda9684ab1f1749718",
+      "dimensions_px": {
+        "width": 1942,
+        "height": 809
+      },
+      "status": "proposto",
+      "visually_inspected": true
+    }
+  ],
+  "publication_status": "nao_publicado_nesta_entrega",
+  "approval_status": "desconhecido",
+  "formats": "Duas peças verticais individuais; uma prévia panorâmica de carrossel com três quadros, incluindo end card. Não foram exportados slides separados desse carrossel."
+}

@@ -1,0 +1,21 @@
+{
+  "status": "Rendered and reviewed: local tracked video-compositing test.",
+  "source_clip": "/Users/g.martins/Downloads/O feed/output/santos-video-test/trecho-original-3s-360x640.mp4",
+  "source_range_seconds": [
+    9.9,
+    12.2666666667
+  ],
+  "duration_seconds": 3,
+  "delivery_size": [
+    360,
+    640
+  ],
+  "reference_front": "/Users/g.martins/Downloads/U31S04381_121.webp",
+  "reference_material_and_crest": "/var/folders/l2/5shr0rfs05sfp1cn323m4qy40000gn/T/codex-clipboard-4ed88187-1575-48f6-8793-243f2e418ee0.png",
+  "reference_collar": "/var/folders/l2/5shr0rfs05sfp1cn323m4qy40000gn/T/codex-clipboard-ead20342-2fb9-487d-b9e4-92602dc3cb50.png",
+  "edit_prompt": "Replace the Tottenham jersey in the source video with the exact black Santos FC 2026 third jersey from the product references. Keep the original continuous camera movement, wooden hanger, locker, mesh, focus, exposure variation, background and audio. Reconstruct the replacement as thin, naturally hanging sports knit with the source garment's physical drape, folds, sleeve movement and changing perspective. The black jacquard diamond weave must be subtle and visible only when catching soft light; no embossed rubber pattern, rigid cloth, inflated torso, plastic shine or pasted flat image. Let logos, white piping and collar react to the real moving illumination and fold shadows, with soft video-level detail and the same camera grain. Copy the exact Santos crest with two yellow stars and yellow crown, white Umbro chest logo, black polo collar with white dashes and white V insert, black-and-white illustrated inner neck panel, white shoulder stripes, fine raglan piping and two small lower hem patches. No central sponsor or number. Remove all Tottenham, Nike, AIA and original green pattern. Preserve exact jersey design across frames without shimmering or logo drift. Deliver a real three-second video edit with original camera movement, not a pan/zoom applied to a still photo. Final review export: vertical 360x640.",
+  "final_video": "/Users/g.martins/Downloads/O feed/output/santos-video-test/santos-teste-3s-360x640.mp4",
+  "source_speed_ratio": 0.7888888888888889,
+  "frame_count": 72,
+  "output_fps": 24
+}

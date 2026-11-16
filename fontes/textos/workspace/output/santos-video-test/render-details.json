@@ -1,0 +1,371 @@
+{
+  "method": "Motion-tracked local video composite from an imagegen-edited reference frame. Original source camera motion and changing perspective retained.",
+  "keyframe_source": "/Users/g.martins/.codex/generated_images/01a1ade4-9505-7401-8d70-734d30514dec/exec-0c338c8d-6133-4a6c-b03d-49bdc8c4f158.png",
+  "source_start_seconds": 9.9,
+  "source_end_seconds": 12.266666666666667,
+  "source_speed_ratio": 0.7888888888888889,
+  "output_seconds": 3,
+  "output_fps": 24,
+  "output_dimensions": [
+    360,
+    640
+  ],
+  "output_file": "/Users/g.martins/Downloads/O feed/output/santos-video-test/santos-teste-3s-360x640.mp4",
+  "checks": [
+    {
+      "frame": 0,
+      "homography_inliers": 434,
+      "median_flow_px": 5.573528289794922
+    },
+    {
+      "frame": 1,
+      "homography_inliers": 421,
+      "median_flow_px": 5.430864334106445
+    },
+    {
+      "frame": 2,
+      "homography_inliers": 435,
+      "median_flow_px": 5.415652275085449
+    },
+    {
+      "frame": 3,
+      "homography_inliers": 516,
+      "median_flow_px": 5.233034133911133
+    },
+    {
+      "frame": 4,
+      "homography_inliers": 501,
+      "median_flow_px": 5.032158374786377
+    },
+    {
+      "frame": 5,
+      "homography_inliers": 522,
+      "median_flow_px": 4.859625339508057
+    },
+    {
+      "frame": 6,
+      "homography_inliers": 522,
+      "median_flow_px": 4.720088005065918
+    },
+    {
+      "frame": 7,
+      "homography_inliers": 524,
+      "median_flow_px": 4.649885177612305
+    },
+    {
+      "frame": 8,
+      "homography_inliers": 546,
+      "median_flow_px": 4.561144828796387
+    },
+    {
+      "frame": 9,
+      "homography_inliers": 535,
+      "median_flow_px": 4.397880554199219
+    },
+    {
+      "frame": 10,
+      "homography_inliers": 543,
+      "median_flow_px": 4.300107002258301
+    },
+    {
+      "frame": 11,
+      "homography_inliers": 551,
+      "median_flow_px": 4.150895118713379
+    },
+    {
+      "frame": 12,
+      "homography_inliers": 551,
+      "median_flow_px": 4.016845226287842
+    },
+    {
+      "frame": 13,
+      "homography_inliers": 556,
+      "median_flow_px": 3.9550156593322754
+    },
+    {
+      "frame": 14,
+      "homography_inliers": 557,
+      "median_flow_px": 3.826970338821411
+    },
+    {
+      "frame": 15,
+      "homography_inliers": 547,
+      "median_flow_px": 3.6709251403808594
+    },
+    {
+      "frame": 16,
+      "homography_inliers": 535,
+      "median_flow_px": 3.5055809020996094
+    },
+    {
+      "frame": 17,
+      "homography_inliers": 541,
+      "median_flow_px": 3.2607555389404297
+    },
+    {
+      "frame": 18,
+      "homography_inliers": 560,
+      "median_flow_px": 3.1379122734069824
+    },
+    {
+      "frame": 19,
+      "homography_inliers": 556,
+      "median_flow_px": 2.986176013946533
+    },
+    {
+      "frame": 20,
+      "homography_inliers": 563,
+      "median_flow_px": 2.7374725341796875
+    },
+    {
+      "frame": 21,
+      "homography_inliers": 550,
+      "median_flow_px": 2.4997544288635254
+    },
+    {
+      "frame": 22,
+      "homography_inliers": 546,
+      "median_flow_px": 2.356106758117676
+    },
+    {
+      "frame": 23,
+      "homography_inliers": 569,
+      "median_flow_px": 2.1676506996154785
+    },
+    {
+      "frame": 24,
+      "homography_inliers": 548,
+      "median_flow_px": 1.9685606956481934
+    },
+    {
+      "frame": 25,
+      "homography_inliers": 577,
+      "median_flow_px": 1.8243072032928467
+    },
+    {
+      "frame": 26,
+      "homography_inliers": 585,
+      "median_flow_px": 1.6396251916885376
+    },
+    {
+      "frame": 27,
+      "homography_inliers": 564,
+      "median_flow_px": 1.4019973278045654
+    },
+    {
+      "frame": 28,
+      "homography_inliers": 557,
+      "median_flow_px": 1.208027720451355
+    },
+    {
+      "frame": 29,
+      "homography_inliers": 571,
+      "median_flow_px": 1.0092376470565796
+    },
+    {
+      "frame": 30,
+      "homography_inliers": 567,
+      "median_flow_px": 0.856491208076477
+    },
+    {
+      "frame": 31,
+      "homography_inliers": 566,
+      "median_flow_px": 0.7024726271629333
+    },
+    {
+      "frame": 32,
+      "homography_inliers": 586,
+      "median_flow_px": 0.5350915789604187
+    },
+    {
+      "frame": 33,
+      "homography_inliers": 603,
+      "median_flow_px": 0.3168330490589142
+    },
+    {
+      "frame": 34,
+      "homography_inliers": 649,
+      "median_flow_px": 0.17502394318580627
+    },
+    {
+      "frame": 35,
+      "homography_inliers": 0,
+      "median_flow_px": 0.0
+    },
+    {
+      "frame": 36,
+      "homography_inliers": 654,
+      "median_flow_px": 0.15792708098888397
+    },
+    {
+      "frame": 37,
+      "homography_inliers": 620,
+      "median_flow_px": 0.32626810669898987
+    },
+    {
+      "frame": 38,
+      "homography_inliers": 600,
+      "median_flow_px": 0.4972882568836212
+    },
+    {
+      "frame": 39,
+      "homography_inliers": 591,
+      "median_flow_px": 0.7215189933776855
+    },
+    {
+      "frame": 40,
+      "homography_inliers": 587,
+      "median_flow_px": 0.953683614730835
+    },
+    {
+      "frame": 41,
+      "homography_inliers": 598,
+      "median_flow_px": 1.2253159284591675
+    },
+    {
+      "frame": 42,
+      "homography_inliers": 580,
+      "median_flow_px": 1.4493908882141113
+    },
+    {
+      "frame": 43,
+      "homography_inliers": 586,
+      "median_flow_px": 1.7087469100952148
+    },
+    {
+      "frame": 44,
+      "homography_inliers": 578,
+      "median_flow_px": 1.9769946336746216
+    },
+    {
+      "frame": 45,
+      "homography_inliers": 566,
+      "median_flow_px": 2.2166855335235596
+    },
+    {
+      "frame": 46,
+      "homography_inliers": 581,
+      "median_flow_px": 2.4543068408966064
+    },
+    {
+      "frame": 47,
+      "homography_inliers": 559,
+      "median_flow_px": 2.73256254196167
+    },
+    {
+      "frame": 48,
+      "homography_inliers": 567,
+      "median_flow_px": 2.97322416305542
+    },
+    {
+      "frame": 49,
+      "homography_inliers": 567,
+      "median_flow_px": 3.174264907836914
+    },
+    {
+      "frame": 50,
+      "homography_inliers": 560,
+      "median_flow_px": 3.4297351837158203
+    },
+    {
+      "frame": 51,
+      "homography_inliers": 565,
+      "median_flow_px": 3.699671745300293
+    },
+    {
+      "frame": 52,
+      "homography_inliers": 569,
+      "median_flow_px": 3.950094699859619
+    },
+    {
+      "frame": 53,
+      "homography_inliers": 567,
+      "median_flow_px": 4.186429023742676
+    },
+    {
+      "frame": 54,
+      "homography_inliers": 561,
+      "median_flow_px": 4.46230411529541
+    },
+    {
+      "frame": 55,
+      "homography_inliers": 550,
+      "median_flow_px": 4.68856143951416
+    },
+    {
+      "frame": 56,
+      "homography_inliers": 548,
+      "median_flow_px": 4.968235015869141
+    },
+    {
+      "frame": 57,
+      "homography_inliers": 561,
+      "median_flow_px": 5.210226058959961
+    },
+    {
+      "frame": 58,
+      "homography_inliers": 574,
+      "median_flow_px": 5.475372314453125
+    },
+    {
+      "frame": 59,
+      "homography_inliers": 571,
+      "median_flow_px": 5.664743423461914
+    },
+    {
+      "frame": 60,
+      "homography_inliers": 581,
+      "median_flow_px": 5.9097747802734375
+    },
+    {
+      "frame": 61,
+      "homography_inliers": 554,
+      "median_flow_px": 6.051360130310059
+    },
+    {
+      "frame": 62,
+      "homography_inliers": 547,
+      "median_flow_px": 6.321272373199463
+    },
+    {
+      "frame": 63,
+      "homography_inliers": 522,
+      "median_flow_px": 6.5091094970703125
+    },
+    {
+      "frame": 64,
+      "homography_inliers": 514,
+      "median_flow_px": 6.782199859619141
+    },
+    {
+      "frame": 65,
+      "homography_inliers": 512,
+      "median_flow_px": 6.9865498542785645
+    },
+    {
+      "frame": 66,
+      "homography_inliers": 519,
+      "median_flow_px": 7.240948677062988
+    },
+    {
+      "frame": 67,
+      "homography_inliers": 538,
+      "median_flow_px": 7.488602638244629
+    },
+    {
+      "frame": 68,
+      "homography_inliers": 530,
+      "median_flow_px": 7.751407146453857
+    },
+    {
+      "frame": 69,
+      "homography_inliers": 529,
+      "median_flow_px": 8.017427444458008
+    },
+    {
+      "frame": 70,
+      "homography_inliers": 534,
+      "median_flow_px": 8.260149002075195
+    }
+  ]
+}
