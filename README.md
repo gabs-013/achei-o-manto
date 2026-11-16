@@ -22,6 +22,8 @@ Leitura inicial: [MEMORIA.md](MEMORIA.md). Carregar depois somente os módulos r
 | Inventário de materiais | [ATIVOS.json](ATIVOS.json) |
 | Proveniência | [FONTES.json](FONTES.json) |
 | Como atualizar | [MANUTENCAO.md](MANUTENCAO.md) |
+| Onde fica cada caminho | [MAPA.md](MAPA.md) |
+| Instruções para agentes | [CLAUDE.md](CLAUDE.md) |
 
 `referencias/logo.png` é cópia do logo explicitamente indicado pelo usuário. `fontes/` é arquivo histórico; prompts antigos e preferências do assistente não substituem a última referência do usuário. Binários além do logo permanecem nos locais registrados.
 
